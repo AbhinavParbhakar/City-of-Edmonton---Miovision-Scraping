@@ -159,8 +159,6 @@ MIOVISION_USERNAME=your_username_here
 MIOVISION_PASSWORD=your_password_here
 ```
 
-⚠️ Do NOT commit this file to version control.
-
 ---
 
 # Running the Script
